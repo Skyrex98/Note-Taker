@@ -1,0 +1,25 @@
+.index-container {
+  margin: 53px;
+  text-align: center;
+}
+
+.output {
+  min-width: 20%;
+  height: 100vh;
+  float: left;
+  border-right: 1px solid grey;
+}
+.input {
+  min-width: 78%;
+  height: 100vh;
+  float: right;
+}
+.main-container {
+  border-top: 1px solid grey;
+}
+.single-output {
+  border-bottom: 1px solid gray;
+  height: 35px;
+  line-height: 35px;
+  cursor: pointer;
+}
